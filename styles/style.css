@@ -81,3 +81,8 @@
 .mycard button:hover {
     background: rgba(0, 0, 0, 0.8);
 }
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
